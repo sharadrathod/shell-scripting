@@ -82,3 +82,10 @@ var_name=value
 var_name=$(hostname)
 echo $var_name
 
+
+## constant variable 
+- once you defined a variable and don't wanna change it untill end of the script.
+
+readonly var_name="hii"
+
+
