@@ -67,12 +67,12 @@ using #
 `#` this is a comment
 
 - to multiline comment
-: <<'COMMENT'
+<<comment
 Hey
 hii
 how
 are
-COMMENT
+comment
 
 
 
