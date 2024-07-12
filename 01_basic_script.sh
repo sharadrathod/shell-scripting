@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hellow World"
+
+echo "Hey Buddy"
