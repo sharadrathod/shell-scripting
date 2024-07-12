@@ -12,6 +12,6 @@ echo "my name is $name"
 
 #var to store the output of a command 
 
-HOSTNAME=#(hostname)
+HOSTNAME=$(hostname)
 
 echo "name of this machine is $HOSTNAME"
