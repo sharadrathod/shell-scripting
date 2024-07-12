@@ -6,4 +6,7 @@ echo "checking comments"
 
 <<<comment
 Hey
+hii
+how 
+are
 comment
