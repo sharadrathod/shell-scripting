@@ -31,3 +31,27 @@ cat /etc/shells
 ```
 echo "hey buddy"
 ```
+## how to run a script?
+- make sure script has execute permission?
+```
+rwx
+```
+- to check permission
+```
+ls -ltr
+```
+- run using 
+```
+./script.sh
+```
+- or
+```
+/path/script.sh
+```
+- or
+```
+bash script.sh
+```
+
+- ctrl+c to terminate 
+- ctrl+z to stop 
