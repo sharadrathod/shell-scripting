@@ -4,12 +4,12 @@ echo "checking comments"
 
 # this is a single line comment
 
-<<<comment
+<<<comments
 
 Hey
 hii
 how 
 are
 
-comment 
+comments
 
