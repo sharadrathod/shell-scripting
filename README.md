@@ -88,4 +88,11 @@ echo $var_name
 
 readonly var_name="hii"
 
+## arrays 
+- how to define an array?
+myArray=( 1 2 Hellow "hey man")
+
+- how to get values from an array? 
+echo "${myArray[0]}"
+echo "${myArray[1]}"
 

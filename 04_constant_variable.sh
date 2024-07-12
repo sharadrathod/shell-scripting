@@ -4,5 +4,5 @@
 readonly college="metro"
 
 echo "my college name is $college"
-
-college="jj"
+#when you try this variable uncomment below 
+#college="jj"
