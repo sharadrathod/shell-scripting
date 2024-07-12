@@ -75,5 +75,10 @@ are
 comment
 
 
+# variables 
+- it is like container or block
 
+var_name=value
+var_name=$(hostname)
+echo $var_name
 
