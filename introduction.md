@@ -76,7 +76,7 @@ comment
 
 
 # variables 
-- it is like container or block
+- it is like container or block we can store value and refer it
 
 var_name=value
 var_name=$(hostname)
