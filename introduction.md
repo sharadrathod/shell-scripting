@@ -67,10 +67,13 @@ using #
 `#` this is a comment
 
 - to multiline comment
-<<<comment
-your comment here
+: <<'COMMENT'
+Hey
+hii
+how
+are
+COMMENT
 
-comment 
 
 
 

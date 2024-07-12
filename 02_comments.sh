@@ -4,10 +4,10 @@ echo "checking comments"
 
 # this is a single line comment
 
-: <<'COMMENT'
+<<comment
 Hey
 hii
 how
 are
-COMMENT
+comment
 
