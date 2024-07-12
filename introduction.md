@@ -21,3 +21,13 @@ cat /etc/shells
 - shell scriting consist of set of commamds to perform a task.
 - all the commands execute sequentially
 - some task like life manupulation, program execution, userinteration, automation of task etc can be done.
+
+## what is shebang? / it is not mandetory
+```
+#!/bin/bash 
+```
+
+- sending output to terminal
+```
+echo "hey buddy"
+```
