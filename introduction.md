@@ -67,9 +67,9 @@ using #
 `#` this is a comment
 
 - to multiline comment
-<<<
+<<<comment
 your comment here
-...
+
 comment 
 
 
