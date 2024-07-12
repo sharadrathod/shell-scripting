@@ -40,6 +40,10 @@ rwx
 ```
 ls -ltr
 ```
+- to give permission
+```
+chmod +x
+```
 - run using 
 ```
 ./script.sh
@@ -48,10 +52,25 @@ ls -ltr
 ```
 /path/script.sh
 ```
-- or
+- to run without permission
+
 ```
 bash script.sh
 ```
 
 - ctrl+c to terminate 
 - ctrl+z to stop 
+
+## comments 
+using #
+
+`#` this is a comment
+
+- to multiline comment
+<<<
+your comment here
+...
+comment 
+
+
+
