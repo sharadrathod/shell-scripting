@@ -96,3 +96,6 @@ myArray=( 1 2 Hellow "hey man")
 echo "${myArray[0]}"
 echo "${myArray[1]}"
 
+#how to find no. of values in an array
+
+echo "no. of values, length of an array is ${#myArray[*]}"
