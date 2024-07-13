@@ -1,6 +1,6 @@
 #!/bin/bash
 # how to declare store the key and value 
-declare -A 
+declare -A myArray
 myArray=( [name]=Paul [age]=20 [city]=paris )
 echo "Name is ${myArray[name]}"
 echo "Age is ${myarray[age]}"
