@@ -9,7 +9,7 @@ echo "value in third index is ${myArray[3]}"
 
 echo "No. of values, length of an array is ${#myArray[*]}" 
 
-- how to get specific values 
+#how to get specific values 
 
 echo "${myArray[*]:1}"
 echo "${myArray[*]:1:2}"
