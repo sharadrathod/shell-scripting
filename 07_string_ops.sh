@@ -6,4 +6,7 @@ echo "Upper case is ----- ${myVar^^}"
 echo "Lower case is ----  ${myVar,,}" 
 #To replace a string
 newVar=${myVar/Buddy/Sharad}
-echo "New var is $newVar"
+echo "New var is $newVar" 
+
+#To slice a string
+echo "After slice ${myVar:4:5}"
