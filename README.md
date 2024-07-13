@@ -105,3 +105,8 @@ echo "No. of values, length of an array is ${#myArray[*]}"
 echo "${myArray[*]:1}"
 echo "${myArray[*]:1:2}"
 
+- Arrays key-value 
+declare -A myArray 
+myArray=( [name]=Paul [age]=20 )
+echo "${myArray[name]}"
+
