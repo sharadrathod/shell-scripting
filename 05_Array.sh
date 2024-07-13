@@ -12,4 +12,8 @@ echo "No. of values, length of an array is ${#myArray[*]}"
 #how to get specific values 
 
 echo "${myArray[*]:1}"
-echo "${myArray[*]:1:2}"
+echo "${myArray[*]:1:2}" 
+
+#updating Arrays with new values 
+myArray+=( new 30 40 )
+echo "values of new array are ${myArray[*]}"
