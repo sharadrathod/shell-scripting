@@ -110,3 +110,12 @@ declare -A myArray
 myArray=( [name]=Paul [age]=20 )
 echo "${myArray[name]}"
 
+## string operations
+myVar="Hellow World"
+length=${#myVar}
+upper=${x^^}
+lower=${y,,}
+replace=${myVar/World/Buddy}
+slice=${myVar:6:11}
+
+
