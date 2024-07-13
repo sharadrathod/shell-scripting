@@ -98,4 +98,10 @@ echo "${myArray[1]}"
 
 #how to find no. of values in an array
 
-echo "No. of values, length of an array is ${#myArray[*]}"
+echo "No. of values, length of an array is ${#myArray[*]}" 
+
+- how to get specific values 
+
+echo "${myArray[*]:1}"
+echo "${myArray[*]:1:2}"
+
