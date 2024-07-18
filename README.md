@@ -118,4 +118,10 @@ lower=${y,,}
 replace=${myVar/World/Buddy}
 slice=${myVar:6:11}
 
+## taking input from user
+
+read <var_name>
+read -p "your name" NAME
+
+
 
